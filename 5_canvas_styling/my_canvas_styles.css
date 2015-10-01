@@ -1,0 +1,35 @@
+ul {
+	list-style-type: none;
+	position: relative;
+    right: 30px;
+    font-family: Helvetica serif;
+}
+
+.card {
+	border: thin black solid;
+}
+
+.sublist {
+	font-style: italic;
+	color: black;
+	margin-top: 0px;
+}
+
+.canvas_section {
+	border: thin black solid;
+}
+
+h2 {
+	position: relative;
+	 left: 10px;
+	 font-size: 10pt; 
+}
+
+h3 {
+	position: relative;
+	 left: 10px;
+	 text-transform: uppercase;
+	 font-size: 5pt;
+	 margin-bottom: 0px;
+
+}
